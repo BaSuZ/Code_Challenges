@@ -11,7 +11,7 @@ Output: 1
 Challenge: Find a way to do this using O(1) memory.
 """
 
-# solution
+# Solución / Solution - class, function, etc.
 def SingleNumber(A):
     repeat = False
     A.sort()

@@ -19,21 +19,22 @@ Output: [-1, -1]
 """
 
 # Solución / Solution - class, function, etc.
-def getRange(A, x):
-    pivot = 0
-    mini = -1
-    maxi = -1
-    for i in range(len(A)):
-        if x == A[i] and pivot == 0:
-            pivot = 1
-            mini = maxi = i
-        elif x == A[i]:
-            maxi = i
-    S = [mini, maxi]
-    return S
+def agrega_uwus(texto, uwu = 'uwu'):
+    """
+    Acá se coloca la descripción de la función (lo que se muestra cuando colocas el maus por encima de ella), por ejemplo:\n
+    agrega_uwus(texto, uwu = 'uwu')\n
+    [texto -> string | uwu -> string | return -> string]
+
+    Toma un string "texto" y le añade el parámetro "uwu" al inicio y al final.
+    Por defecto el valor de la variable "uwu" es 'uwu'.
+    
+    >>> agrega_uwus('Dr. Aven')
+    > 'uwu Dr. Aven uwu'
+    """
+    return "uwu " + texto + " uwu"
 
 
-A = [1, 2, 2, 2, 2, 3, 4, 7, 8, 8] # array
-x = 9 # target
-sol = getRange(A, x)
-print("Solución: " + str(sol))
+
+dr_aven = "BaSuZ3"
+uwus = agrega_uwus(dr_aven)
+print(uwus)

@@ -14,7 +14,7 @@ Input: "tracecars"
 Output: racecar
 """
 
-# Solution
+# Solución / Solution - class, function, etc.
 def LongestPalindromic(s):
     S = s.lower()
     size = len(s)

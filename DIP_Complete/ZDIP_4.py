@@ -21,7 +21,7 @@ Input: "({[)]"
 Output: False
 """
 
-# solution
+# Solución / Solution - class, function, etc.
 def isValid(s):
     check = [] # check ()
     size = len(s)

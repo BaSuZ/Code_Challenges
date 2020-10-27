@@ -9,11 +9,7 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 """
 
-"""
-Comment all: (alt + shift + A)
-# Otro comentario: (ctrl + k + c)
-"""
-
+# Solución / Solution - class, function, etc.
 class Nodo():
     def __init__(self, x):
         self.valor = x

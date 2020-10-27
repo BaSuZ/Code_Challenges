@@ -11,7 +11,7 @@ return true since 4 + 1 = 5.
 Try to do it in a single pass of the list.
 """
 
-# solution
+# Solución / Solution - class, function, etc.
 def TwoSum(A, k):
     for i in range(len(A) - 1):
         for j in range(i + 1, len(A)):

@@ -11,7 +11,7 @@ Output: [1, 1, 2, 2, 3, 3, 3]
 Challenge: Try sorting the list using constant space.
 """
 
-# solution
+# Solución / Solution - class, function, etc.
 def sortNums(A):
     MID = 2
     n = len(A) - 1

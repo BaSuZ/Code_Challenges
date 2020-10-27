@@ -9,7 +9,7 @@ Input: 4 -> 3 -> 2 -> 1 -> 0 -> NULL
 Output: 0 -> 1 -> 2 -> 3 -> 4 -> NULL
 """
 
-# solution
+# Solución / Solution - class, function, etc.
 class ListNode(object):
     def __init__(self, x):
         self.val = x

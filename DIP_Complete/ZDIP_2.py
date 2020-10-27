@@ -9,7 +9,7 @@ Given a string, find the length of the longest substring without repeating chara
 Can you find a solution in linear time?
 """
 
-# Solution
+# Solución / Solution - class, function, etc.
 def LenghtOfLongerSubstring(s):
     no_Repeat = []
     pos = 0
