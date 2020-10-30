@@ -23,7 +23,7 @@ Los siguientes archivos:
 
 son plantillas.
 
-PD: Este repositorio lo utilizo para aprender y practicar en gitgub, eres libre de sacar los ejercicios para practicar o ver su resolución.
+PD: Este repositorio lo utilizo para aprender y practicar en gitgub, eres libre de sacar los ejercicios para practicar o ver su resolución. :p
 
 
 
@@ -46,4 +46,4 @@ The following files:
 
 are templates.
 
-PS: I use this repository to learn and practice on gitgub, you are free to check out the exercises to practice or see their resolution.
+PS: I use this repository to learn and practice on gitgub, you are free to check out the exercises to practice or see their resolution. :p
